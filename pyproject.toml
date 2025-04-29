@@ -1,7 +1,7 @@
 [project]
 name = "we-serve"
 version = "0.1.0"
-description = "Add your description here"
+description = "Keep track of LLC financials"
 requires-python = ">=3.10"
 dependencies = [
     "openpyxl>=3.1.5",
